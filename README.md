@@ -11,19 +11,30 @@ LEMME SEE IF THIS SETIN WORKS
 print("Ganpati bappa moriya")
 ```
 
-\
-
+\\
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Windows" %}
 THIS IS THE FIRST TAB
 {% endtab %}
 
-{% tab title="Second Tab" %}
-tHIS IS THE SECOND TAB
-{% endtab %}
-
-{% tab title="THird Tab" %}
+{% tab title="Linux" %}
 tHIS IS THE SECOND TAB
 {% endtab %}
 {% endtabs %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+fdsafdsa
+{% endtab %}
+{% endtabs %}
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
