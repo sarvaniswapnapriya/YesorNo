@@ -21,6 +21,9 @@ THIS IS THE FIRST TAB
 {% tab title="Linux" %}
 tHIS IS THE SECOND TAB
 {% endtab %}
+{% tab title="THird Tab" %} tHIS IS THE SECOND TAB {% endtab %} {% endtabs %}
+
+
 {% endtabs %}
 
 {% tabs %}
