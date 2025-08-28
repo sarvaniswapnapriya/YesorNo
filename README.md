@@ -22,4 +22,8 @@ THIS IS THE FIRST TAB
 {% tab title="Second Tab" %}
 tHIS IS THE SECOND TAB
 {% endtab %}
+
+{% tab title="THird Tab" %}
+tHIS IS THE SECOND TAB
+{% endtab %}
 {% endtabs %}
