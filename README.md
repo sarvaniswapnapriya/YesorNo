@@ -5,7 +5,7 @@
 print("hello")
 ```
 
-
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/WhatsApp Image 2024-12-16 at 12.50.28 PM (2).jpeg">WhatsApp Image 2024-12-16 at 12.50.28 PM (2).jpeg</a></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 
 
