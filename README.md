@@ -1,7 +1,7 @@
 # TECHNICAL DOCUMENTATION
 
-{% hint style="success" %}
-Hello this is a hint
+{% hint style="info" %}
+For a beginner-friendly guide to getting started with Private Cloud Director Community Edition, check out the Tutorials section: [Beginner’s Guide to Deploying PCD Community Edition](https://platform9.com/docs/private-cloud-director/private-cloud-director/beginner---s-guide-to-deploying-pcd-community-edition)
 {% endhint %}
 
 ```svg
